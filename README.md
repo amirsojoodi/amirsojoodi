@@ -9,8 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirsojoodi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirsojoodi&theme=light&hide_border=true&" alt="amirsojoodi" /></a>
-
 <!--
 **amirsojoodi/amirsojoodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,4 +25,5 @@ Here are some ideas to get you started:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirsojoodi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirsojoodi&theme=light&hide_border=true&" alt="amirsojoodi" /></a>
 -->
