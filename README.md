@@ -5,7 +5,9 @@
 - 🔭 I’m currently a PhD student at Queen's university. 
 - 📫 I can be found mostly via emails, or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirsojoodi/)
 
+<!--
 ![](./profile-3d-contrib/profile-night-green.svg)
+-->
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirsojoodi&theme=dark&hide_border=true&" alt="amirsojoodi" /></a>
 
